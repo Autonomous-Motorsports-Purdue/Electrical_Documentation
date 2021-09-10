@@ -1,5 +1,5 @@
 # Electrical Documentation
 
-This repository holds the source code for the GitHub Pages Documentation
+This is an empty repository to hold the documentation wiki
 
-[View the the GitHub Pages here!](https://autonomous-motorsports-purdue.github.io/Electrical_Documentation/)
+[view the wiki here](https://github.com/Autonomous-Motorsports-Purdue/Electrical_Documentation/wiki)
