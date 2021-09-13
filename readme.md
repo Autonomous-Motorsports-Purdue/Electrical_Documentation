@@ -1,5 +1,7 @@
 # Electrical Documentation
 
-This is an empty repository to hold the documentation wiki
+This is a repository to hold the documentation wiki
 
-[view the wiki here](https://github.com/Autonomous-Motorsports-Purdue/Electrical_Documentation/wiki)
+The repository file storage will be used for technical documents and datasheets to be refered to by the wiki
+
+# [View the wiki here](https://github.com/Autonomous-Motorsports-Purdue/Electrical_Documentation/wiki)
